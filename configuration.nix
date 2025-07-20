@@ -101,7 +101,7 @@
   # adobe-reader
   neofetch
   vim
-  
+  git
   vscode
   vlc
   
